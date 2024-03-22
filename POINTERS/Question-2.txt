@@ -1,0 +1,7 @@
+Question :-
+
+    int *p, q;
+
+Solution :-
+
+1. p is a pointer and q is an integer.
