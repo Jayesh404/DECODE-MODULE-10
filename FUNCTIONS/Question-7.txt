@@ -1,0 +1,5 @@
+Solution :-
+
+Yes , same function name can be used without any conflict 
+but the signature of the function should be different .
+This concept is known as function overloading.
